@@ -1,5 +1,5 @@
 # Awesome NotebookLM Templates
-### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)!
+### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)! check out my recent work at https://github.com/agent-team-foundation/first-tree 🥇
 ![repo_banner](https://hackmd.io/_uploads/HJdglgwrZe.png)
 ![Awesome](https://awesome.re/badge.svg)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
